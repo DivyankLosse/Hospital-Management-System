@@ -102,9 +102,9 @@ This project is licensed under the **MIT License**—check the `LICENSE` file fo
 
 ## 📸 **Screenshots**  
 Peek at the magic in action:  
-- ![Login Screen](screenshots/login.png)  
-- ![Dashboard](screenshots/dashboard.png)  
-- ![Appointments](screenshots/appointments.png)  
+- ![Login Screen](![image](https://github.com/user-attachments/assets/cb10f251-6cb0-4ad2-ae52-eb3479b10c88))  
+- ![Dashboard](![image](https://github.com/user-attachments/assets/b597b647-c06e-434d-873e-a57331b3e2d2))  
+- ![Appointments](![image](https://github.com/user-attachments/assets/c75c7c50-ec0e-4bee-be1f-50968bd410dd))  
 
 ---
 
